@@ -1,2 +1,0 @@
-# EftimOff
-EfoOff
